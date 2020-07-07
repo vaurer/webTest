@@ -74,8 +74,6 @@ body {
   grid-row-start: 1;
   grid-row-end: 3;
 }
-.d {
-}
 .e {
   grid-column-start: 3;
   grid-column-end: 5;
