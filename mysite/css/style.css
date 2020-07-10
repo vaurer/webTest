@@ -46,8 +46,8 @@ body {
   }
 .grid {
   /*border: 2px blue solid;*/
-  height: auto;
-  width: auto;
+  height: 1440px;
+  width: 2560px;
   display: grid;
   /*grid-template-columns: 25% 25% 2fr 1fr;
   grid-template-rows: 200px 200px;*/
@@ -88,3 +88,4 @@ img{
     border-radius: 7px;
     box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
 }
+
